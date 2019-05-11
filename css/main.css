@@ -126,7 +126,7 @@ ul{
 }
 
 .rotate:hover::before {
-	transform: rotate(14deg) scale(1.2);
+	transform: rotate(14deg) scale(1.5);
     transition: all 0.5s;
 }
 
