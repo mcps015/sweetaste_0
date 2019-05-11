@@ -92,14 +92,14 @@ ul{
 	overflow: hidden;  
 }
 
-.feature div{
-	/*display: block;*/
-    /*width: 100%;*/
+/*.feature div{   原本的div
+	display: block;
+    width: 100%;
     height: 100%;
-	/*background-position: 50% 90%;*/
-    /*background-size: cover;*/	
-	/*filter: blur(4px);*/
-}
+	background-position: 50% 90%;
+    background-size: cover;
+	filter: blur(4px);
+}*/
 
 .rotate.rc-1::before {
     content: "";
